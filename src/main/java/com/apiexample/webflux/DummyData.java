@@ -1,7 +1,7 @@
 package com.apiexample.webflux;
 
 
-import com.apiexample.webflux.document.Playlist;
+import com.apiexample.webflux.model.Playlist;
 import com.apiexample.webflux.repository.PlaylistRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;

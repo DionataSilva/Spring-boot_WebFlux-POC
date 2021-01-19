@@ -1,6 +1,6 @@
 package com.apiexample.webflux.controller;
 
-import com.apiexample.webflux.document.Playlist;
+import com.apiexample.webflux.model.Playlist;
 import com.apiexample.webflux.service.PlaylistService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

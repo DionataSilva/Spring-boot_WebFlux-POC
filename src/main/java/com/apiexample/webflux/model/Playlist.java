@@ -1,4 +1,4 @@
-package com.apiexample.webflux.document;
+package com.apiexample.webflux.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

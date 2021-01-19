@@ -1,6 +1,6 @@
 package com.apiexample.webflux.service;
 
-import com.apiexample.webflux.document.Playlist;
+import com.apiexample.webflux.model.Playlist;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
