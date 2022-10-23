@@ -1,4 +1,4 @@
-package com.apiexample.webflux.service;
+package com.apiexample.webflux.service.playlist;
 
 import com.apiexample.webflux.model.Playlist;
 import com.apiexample.webflux.repository.PlaylistRepository;

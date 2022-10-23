@@ -1,7 +1,7 @@
 package com.apiexample.webflux.controller.playlist;
 
 import com.apiexample.webflux.model.Playlist;
-import com.apiexample.webflux.service.PlaylistService;
+import com.apiexample.webflux.service.playlist.PlaylistService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
